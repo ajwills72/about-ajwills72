@@ -14,4 +14,14 @@ by 'stuff' and would in general like less stuff in my life, rather than more. Bu
 
 - Old or rare books in the areas of: science fiction, computing, space, psychology.
 
+...and I do consume a few nice things that are tasty but not that good for me, like:
+
+- Craft ale
+
+- Single-malt Scotch whiskey
+
+- Mouldy cheese (Stilton, etc)
+
+- Crystallized fruit and ginger
+
 Thanks for taking the time to read this.
