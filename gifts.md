@@ -8,11 +8,12 @@ by 'stuff' and would in general like less stuff in my life, rather than more. Bu
 
 I'd be happy for your gift to be a donation to one of the things I suport. For example:
 
-[Electronic Frontier Foundation](https://www.eff.org/) -  A chairty defending digital privacy, free speech, and innovation. 
+[Electronic Frontier Foundation](https://www.eff.org/) -  Defending digital privacy, free speech, and innovation. 
 
-### Electronic music artists
+[Free Software Foundation Europe](https://fsfe.org/) - Increasing public understanding of how Free Software contributes to freedom, transparency, and self-determination.
 
-### Journalism
+[Tor Project](https://www.torproject.org/) - Supporting privacy and anonymity online.
+
 
 
 ## I collect small, old things
