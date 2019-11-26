@@ -1,0 +1,31 @@
+---
+title: "Classic Star Wars Comic Collection"
+output: html_document
+---
+
+I collect old Star Wars comics; specifically, the run of Marvel Star Wars from 1977 to 1986. As of 2019, reasonable prices range from about £5-10 per issue - it's not worth paying more than that. 
+
+**Below is a list of the issues I have, so any issue _not_ listed here is one I'm looking for.** 
+
+The list is ordered by the date the issue originally shipped. This could be up to three months before the month listed on the front cover, so use the issue number rather than the cover date to find issues.
+
+If searching on _eBay_, a good search term is `marvel star wars comic xxxx`, replacing `xxxx` with the year of publication (e.g. `1978`)
+
+If you're unsure whether you've found the right thing, every cover is shown on [wookiepedia](https://starwars.fandom.com/wiki/Star_Wars_(Marvel)).
+
+```{r list, echo=FALSE, message = FALSE, results='asis'}
+library(tidyverse)
+library(pander)
+sw <- read_csv("starwars-comics.csv")
+collection <-
+    sw %>%
+    filter(Date < "1987-01-01")  %>%
+    select(Date, Issue) %>%
+    arrange(Date)
+colnames(collection) <- c("Shipping date", "Issue")
+pandoc.table(collection)
+```
+
+
+
+

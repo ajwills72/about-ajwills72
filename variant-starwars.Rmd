@@ -1,0 +1,32 @@
+---
+title: "Modern Star Wars Variant Edition Comic Collection"
+output: html_document
+---
+
+I collect _variant editions_ of modern Star Wars comics. By "modern", I mean anything after 1990, and by 'variant edition' I mean issues that have a different (rarer) cover than the normal issue. 
+
+I collect variant editions from two publishers: [Dark Horse](https://starwars.fandom.com/wiki/Dark_Horse_Comics) and [Marvel](https://starwars.fandom.com/wiki/Category:Marvel_Comics). Clicking on those links will take you to wookiepedia entries, which you can use to see which variant editions were made. 
+
+**Below is a list of the variant editions I have, so any issue _not_ listed here is one I'm looking for.** 
+
+The list is ordered by the date the issue originally shipped. This could be different to the month listed on the front cover, so use the issue number rather than the cover date to find issues.
+
+If searching on _eBay_, a good search term is .e.g. `dark horse star wars variant`.
+
+
+```{r list, echo=FALSE, message = FALSE, results='asis'}
+library(tidyverse)
+library(pander)
+sw <- read_csv("starwars-comics.csv")
+collection <-
+    sw %>%
+    filter(Date > "1990-12-31")  %>%
+	filter(VariantName != "None") %>%
+	arrange(Date) %>% 
+    select(Publisher, Date, Series, Issue, VariantName)
+pandoc.table(collection, split.tables = Inf)
+```
+
+
+
+
