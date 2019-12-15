@@ -2,9 +2,11 @@
 
 ## Sponsoring
 
-I support the following organizations:
+I financially support the following organizations:
 
 - [Electronic Frontier Foundation](https://www.eff.org/)
+
+- [Free Software Foundation Europe](https://fsfe.org/)
 
 - [Wikipedia](https://donate.wikimedia.org/)
 
