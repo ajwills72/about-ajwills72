@@ -26,7 +26,7 @@ I'd be happy for your gift to be a donation to one of the people or organization
 [Late Night Linux](https://www.patreon.com/LateNightLinux/posts) - Linux podcast
 
 
-## Collecting small, old things
+## Collecting things
 
 Here are some of the things I collect, and what I already have within those collections. Many of these things you can find on [eBay](https://www.ebay.co.uk), [Discogs](https://www.discogs.com), or [BookFinder](https://www.bookfinder.com/). Clicking on the links below takes you to a page that lists the current contents on my collections.
 
@@ -34,7 +34,7 @@ Here are some of the things I collect, and what I already have within those coll
 
 - [Classic Star Wars comics](old-starwars.html)
 
-- Pre-21st century physical recordings (vinyl, cassette, CD) of electronic music
+- [Electronic instrumental music on vinyl](elec-inst-vinyl.html)
 
 - Pre-21st century books in the areas of: science fiction, computing, space, psychology, electronic music.
 

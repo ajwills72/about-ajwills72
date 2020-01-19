@@ -1,0 +1,18 @@
+---
+title: "Instrumental electronic music on vinyl"
+output: html_document
+---
+
+I collect instrument electronic music on vinyl.  **Below is a list of the items I have.** The list is ordered by artist's name. 
+
+```{r list, echo=FALSE, message = FALSE, results='asis'}
+library(tidyverse)
+library(pander)
+eiv <- read_csv("elec-inst-vinyl.csv")
+collection <- eiv %>% select(Artist, Record, Format) %>% arrange(Artist) 
+pandoc.table(collection, split.tables = Inf)
+```
+
+
+
+
