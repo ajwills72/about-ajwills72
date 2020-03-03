@@ -8,6 +8,8 @@ This log was started on 2020-02-10, and is a complete record of my academic revi
 
 - Learning and Behavior (1): 2020-02-10
 
+- Psychonomic Bulletin & Review (1): 2020-03-03
+
 ## Promotion applications
 
 - Cardiff University (1): 2020-02-10
