@@ -10,6 +10,8 @@ This log was started on 2020-02-10, and is a complete record of my academic revi
 
 - Learning and Behavior (1): 2020-02-10
 
+- Proceedings of the Annual Conference of the Cognitive Science Society (1): 2020-03-10
+
 - Psychonomic Bulletin & Review (1): 2020-03-03
 
 ## Promotion applications
