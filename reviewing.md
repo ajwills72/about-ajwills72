@@ -1,3 +1,7 @@
+# Overall reviewing rates
+
+ESRC: ~3/year (30 grant applications since March 2009)
+
 # Reviewing log
 
 This log was started on 2020-02-10, and is a complete record of my academic reviewing work since that date:
