@@ -1,6 +1,8 @@
 # Overall reviewing rates
 
-ESRC: ~3/year (30 grant applications since March 2009)
+Grant applications: ~3/year (based on 30 ESRC grant applications since March 2009)
+
+Journal articles: ~40/year
 
 # Reviewing log
 
@@ -14,11 +16,13 @@ This log was started on 2020-02-10, and is a complete record of my academic revi
 
 - Learning and Behavior (1): 2020-02-10
 
+- Perspectives on Psychological Science (1): 2020-04-14
+
 - Proceedings of the Annual Conference of the Cognitive Science Society (2): 2020-03-10, 2020-03-10
 
 - Psychonomic Bulletin & Review (1): 2020-03-03
 
-- Quaterly Journal of Experimental Psychology (1): 2020-03-19
+- Quarterly Journal of Experimental Psychology (1): 2020-03-19
 
 ## Grants
 
