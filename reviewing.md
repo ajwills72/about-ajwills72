@@ -33,3 +33,5 @@ This log was started on 2020-02-10, and is a complete record of my academic revi
 - Cardiff University (1): 2020-02-10
 
 - Florida International University (1): 2020-04-15
+
+.
