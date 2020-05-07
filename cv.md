@@ -1,6 +1,6 @@
 # Prof. Andy J. Wills
 
-# Employment history
+## Employment history
 
 - **University of Plymouth** (2012 - present): Professor
 
