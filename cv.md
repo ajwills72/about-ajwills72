@@ -18,11 +18,11 @@
 
 **Summary**: I work on the psychology and neuroscience of category learning – how we learn to divide the world into groups of things. I use computer-based testing of adult humans, formal computational modelling, and various neuroscience methodologies (including fMRI and EEG). I also work on the role of errors in learning and memory more generally. Over a 23-year history of academic publishing, I have produced around 90 publications,  which have been cited around 1600 times. I have an h-index of 23. 
 
-**Detail**: My most influential work has been in the following five areas:
+**Research interests**: 
 
-1. **Attention and learning**. The re-allocation of visual attention in response to errors usually supports fast, efficient learning, but can also lead to systemtically irrational behaviour under certain conditions. Key publications in [2016](http://www.willslab.org.uk/pubs/lepelley2016_postprint.pdf), [2007](http://www.willslab.org.uk/pubs/2007Willsetal.pdf), [2003](http://www.willslab.org.uk/pubs/2003lochmannwills.pdf).
+- **Attention and learning**. The re-allocation of visual attention in response to errors usually supports fast, efficient learning, but can also lead to systemtically irrational behaviour under certain conditions[a](http://www.willslab.org.uk/pubs/2003lochmannwills.pdf), [b](http://www.willslab.org.uk/pubs/2007Willsetal.pdf), [c](http://www.willslab.org.uk/pubs/willslavric.pdf), [d](http://www.willslab.org.uk/pubs/lepelley2016_postprint.pdf).
 
-2. **Computational modelling**. Improving the quality and impact of computational modelling in psychology. Indicative publications: [3](http://www.willslab.org.uk/pubs/2012willspothos.pdf), [4](http://www.willslab.org.uk/pubs/2011pothos.pdf).
+- **Computational modelling**. Improving the quality and impact of computational modelling in psychology. Indicative publications: [3](http://www.willslab.org.uk/pubs/2012willspothos.pdf), [4](http://www.willslab.org.uk/pubs/2011pothos.pdf).
 
 3. **Combination Theory of object classification**. Object classification involves synthesis of object representations over time, not analysis of initially holistic forms. Starting in 2004, my work in this area has led to a fundamental reconceptualization of several classic results in the field. Indicative publications: (#5, 6, 9, 16, 19, 21)
 
