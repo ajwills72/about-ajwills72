@@ -20,7 +20,7 @@
 
 **Detail**: My most influential work has been in the following five areas:
 
-1. **Attention and learning**. The re-allocation of visual attention in response to errors usually supports fast, efficient learning, but can also lead to systemtically irrational behaviour under certain conditions. Indicative publications: [theory](http://www.willslab.org.uk/pubs/lepelley2016_postprint.pdf), [neuroscience](http://www.willslab.org.uk/pubs/2007Willsetal.pdf), [behaviour](http://www.willslab.org.uk/pubs/2003lochmannwills.pdf).
+1. **Attention and learning**. The re-allocation of visual attention in response to errors usually supports fast, efficient learning, but can also lead to systemtically irrational behaviour under certain conditions. Key publications in [2016](http://www.willslab.org.uk/pubs/lepelley2016_postprint.pdf), [2007](http://www.willslab.org.uk/pubs/2007Willsetal.pdf), [2003](http://www.willslab.org.uk/pubs/2003lochmannwills.pdf).
 
 2. **Computational modelling**. Improving the quality and impact of computational modelling in psychology. Indicative publications: [3](http://www.willslab.org.uk/pubs/2012willspothos.pdf), [4](http://www.willslab.org.uk/pubs/2011pothos.pdf).
 
