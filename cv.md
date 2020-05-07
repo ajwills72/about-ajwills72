@@ -20,7 +20,7 @@
 
 **Detail**: My most influential work has been in the following five areas:
 
-1. **Relationship between visual attention and errors in learning** (#1, 2, 5, 11). From early behavioural and neuroscience work published in 2003-2007,  and continuing to the present day, I’ve substantially increased our understanding of how the re-allocation of visual attention not only normally leads to fast, efficient learning, but can also lead to systemtically irrational behaviour under certain conditions. _Indicative publications_: [1](http://www.willslab.org.uk/pubs/lepelley2016_postprint.pdf), [2](http://www.willslab.org.uk/pubs/2007Willsetal.pdf), [5](http://www.willslab.org.uk/pubs/2005lepelley.pdf), [11](http://www.willslab.org.uk/pubs/2003lochmannwills.pdf)
+1. **Relationship between visual attention and errors in learning** (#1, 2, 5, 11). From early behavioural and neuroscience work published in 2003-2007,  and continuing to the present day, I’ve substantially increased our understanding of how the re-allocation of visual attention not only normally leads to fast, efficient learning, but can also lead to systemtically irrational behaviour under certain conditions. Indicative publications: [1](http://www.willslab.org.uk/pubs/lepelley2016_postprint.pdf), [2](http://www.willslab.org.uk/pubs/2007Willsetal.pdf), [5](http://www.willslab.org.uk/pubs/2005lepelley.pdf), [11](http://www.willslab.org.uk/pubs/2003lochmannwills.pdf)
 
 2. **Practice and process of computational modelling in psychology** (#3, 4). Since a seminal theory paper in 2012, I’ve worked consistently to improve the quality and impact of computational modelling in psychology.
 
