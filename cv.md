@@ -10,5 +10,7 @@
 
 ## Qualifications
 
-Ph.D. (1998, Cambridge University, Psychology), B.Sc. (1993, Southampton University, Psychology, 2i)
+- Ph.D. (1998, Cambridge University, Psychology)
+
+- B.Sc. (1993, Southampton University, Psychology, 2i)
 
