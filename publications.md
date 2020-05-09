@@ -55,18 +55,26 @@
 [47]	Wills, A.J., & Pothos, E.M. (2012). On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012). Psychological Bulletin, 138, 1253-1258. [pdf]
 [46]	Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2012). Implicit Learning: A Demonstration and a Novel SRT Paradigm. In N Miyake, D Peebles, & RP Cooper (Eds.). Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 1185-1190). Austin, TX: Cognitive Science Society. [pdf]
 [45]	Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2012). State-trace analysis of sequence learning by recurrent networks. In N Miyake, D Peebles, & RP Cooper (Eds.). Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 2581-2586). Austin, TX: Cognitive Science Society. [pdf]
+
 [44]	Kovacs, T., & Wills, A.J. (2012). Generalization versus discrimination in learning. In N.M. Seele (Ed.). Encyclopedia of the Sciences of Learning (pp. ). Springer.
-2011
-[43]	Wills, A.J., Graham, S., Koh, Z., McLaren, I.P.L., & Rolland, M.D. (2011). Effects of concurrent load on feature- and rule-based generalization in human contingency learning. Journal of Experimental Psychology: Animal Behavior Processes, 37, 308-316. [pdf] [exp. 1] [exp. 2]
-[42]	Welham, A.K., & Wills, A.J. (2011). Unitization, similarity and overt attention in categorization and exposure. Memory and Cognition, 39, 1518-1533. [pdf]
-[41]	Graham, S., Jie, H.L., Minn, C.H., McLaren, I.P.L., & Wills, A.J. (2011). Simultaneous backward conditioned inhibition and mediated conditioning. Journal of Experimental Psychology: Animal Behavior Processes, 31, 241-245. [pdf]
-[40]	Goto, K., Lea, S.E.G., Wills, A.J., & Milton, F. (2011). Interpreting the effects of image manipulation on picture perception in pigeons (Columba livia) and humans (Homo sapiens). Journal of Comparative Psychology, 125, 48-60. [pdf]
-[39]	Pothos, E.M., & Wills, A.J. (2011). Formal approaches in categroization. Cambridge University Press. [pdf]
-[38]	Wills, A.J., Barrasin, T.J., & McLaren, I.P.L. (2011). Working memory capacity and generalization in predictive learning. In L. Carlson, C. Holscher, & T. Shipley (Eds.). Proceedings of the 33rd Annual Conference of the Cognitive Science Society (pp. 3205-3210). Austin, TX: Cognitive Science Society. [pdf]
-[37]	Milton, F., Viika, L., Henderson, H., & Wills, A.J. (2011). The effect of time pressure and the spatial integration of the stimulus dimensions on overall similarity categorization. In L. Carlson, C. Holscher, & T. Shipley (Eds.). Proceedings of the 33rd Annual Conference of the Cognitive Science Society (pp. 795-800). Austin, TX: Cognitive Science Society. [pdf]
-[36]	McLaren, I.P.L., Wills, A.J., & Graham, S. (2011). Representation development, perceptual learning and concept formation. Behavioral and Brain Sciences, 34, 141-142. [pdf]
-[35]	Wills, A.J. (2011). Learning from errors: Perspectives from basic research. In E. Wuttke, & J. Seifried (Eds.). Learning from Errors at School and at Work (pp. 143-153). Verlag Barbara Budrich.
-2010
+
+Wills, A.J. (2011). [Learning from errors: Perspectives from basic research](pu143.md). In E. Wuttke, & J. Seifried (Eds.). _Learning from Errors at School and at Work_ (pp. 143-153). Verlag Barbara Budrich. Published: 11 November 2011.
+
+Wills, A.J., Barrasin, T.J., & McLaren, I.P.L. (2011). [Working memory capacity and generalization in predictive learning](pu142.md). In L. Carlson, C. Holscher, & T. Shipley (Eds.). _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_ (pp. 3205-3210). Austin, TX: Cognitive Science Society. Published: August 2011.
+
+Milton, F., Viika, L., Henderson, H., & Wills, A.J. (2011). [The effect of time pressure and the spatial integration of the stimulus dimensions on overall similarity categorization](pu141.md). In L. Carlson, C. Holscher, & T. Shipley (Eds.). _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_ (pp. 795-800). Austin, TX: Cognitive Science Society. Published: August 2011.
+
+Wills, A.J., Graham, S., Koh, Z., McLaren, I.P.L., & Rolland, M.D. (2011). [Effects of concurrent load on feature- and rule-based generalization in human contingency learning](pu140.md). _Journal of Experimental Psychology: Animal Behavior Processes_, 37, 308-316. Published: 1 July 2011.
+
+Welham, A.K., & Wills, A.J. (2011). [Unitization, similarity and overt attention in categorization and exposure](pu139.md). Memory and Cognition, 39, 1518-1533. Published: 29 June 2011.
+
+Graham, S., Jie, H.L., Minn, C.H., McLaren, I.P.L., & Wills, A.J. (2011). [Simultaneous backward conditioned inhibition and mediated conditioning](pu138.md). _Journal of Experimental Psychology: Animal Behavior Processes, 31_, 241-245. Published: 1 April 2011.
+
+Goto, K., Lea, S.E.G., Wills, A.J., & Milton, F. (2011). [Interpreting the effects of image manipulation on picture perception in pigeons (Columba livia) and humans (Homo sapiens)](pu137.md). _Journal of Comparative Psychology, 125_, 48-60. Published: 1 February 2011.
+
+Pothos, E.M., & Wills, A.J. (2011). [Formal approaches in categroization](pu136.md). Cambridge University Press. 
+
+McLaren, I.P.L., Wills, A.J., & Graham, S. (2011). [Representation development, perceptual learning and concept formation](pu135.md). _Behavioral and Brain Sciences_, 34, 141-142. Published: 19 May 2011.
 
 Beesley, T., Wills, A.J., & Le Pelley, M.E. (2010). [Syntactic transfer in artificial grammar learning](pu134.md). _Psychonomic Bulletin and Review, 17_, 122-128. Published: February 2010.
 
