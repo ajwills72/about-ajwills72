@@ -45,7 +45,7 @@
 
 Roberts, H., Watkins, E.R., & Wills, A.J. (2013). [Cueing an unresolved personal goal causes persistent ruminative self-focus: an experimental evaluation of control theories of rumination](pu155.md). _Journal of Behavior Therapy and Experimental Psychiatry, 44_, 449-455. Published: December 2013.
 
-Wills, A.J., Milton, F., Longmore, C.A., Hester, S., & Robinson, J. (2013). [Is overall similarity classification less effortful than single-dimension classification?](pu154.md). _Quarterly Journal of Experimental Psychology, 66_, 299-318. Published: 17 August 2012.
+Wills, A.J., Milton, F., Longmore, C.A., Hester, S., & Robinson, J. (2013). [Is overall similarity classification less effortful than single-dimension classification?](pu154.md) _Quarterly Journal of Experimental Psychology, 66_, 299-318. Published: 17 August 2012.
 
 Wills, A.J., Longmore, C.A., & Milton, F. (2013). [Impulsivity and overall similarity classification](pu153.md). In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). _Proceedings of the 35th Annual Conference of the Cognitive Science Society_ (pp. 3783-3788). Austin, TX: Cognitive Science Society. Published: August 2013.
 
