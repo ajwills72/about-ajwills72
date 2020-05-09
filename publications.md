@@ -69,15 +69,21 @@
 2010
 [34]	Beesley, T., Wills, A.J., & Le Pelley, M.E. (2010). Syntactic transfer in artificial grammar learning. Psychonomic Bulletin and Review, 17, 122-128. [pdf]
 [33]	Hopewell, L., Leaver, L.A., Lea, S.E.G., & Wills, A.J. (2010). Grey squirrels (Sciurus carolinensis) show a feature-negative effect specific to social learning. Animal Cognition, 13, 219-227. [pdf]
+
 [32]	McLaren, I.P.L., Wills, A.J., & Graham, S. (2010). Attention and Perceptual Learning. In C. Mitchell, & M. Le Pelley (Eds.). Attention and associative learning: From brain to behaviour (pp. ). Oxford: Oxford University Press. [pdf]
 2009
-[31]	Wills, A.J. (2009). Prediction errors and attention in the presence and absence of feedback. Current Directions in Psychological Science, 18, 95-100. [pdf]
-[30]	Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens). Journal of Comparative Psychology, 123, 391-405. [pdf] [exp1a] [exp1b] [exp2] [squirrel video]
-[29]	Milton, F., Wills, A.J., & Hodgson, T.L. (2009). The neural basis of overall similarity and single-dimension sorting. NeuroImage, 46, 319-326. [pdf]
-[28]	Milton, F., & Wills, A.J. (2009). Long-term persistence of sort strategy in free classification. Acta Psychologica, 130, 161-167. [pdf]
-[27]	Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Millar, L. (2009). A comparative analysis of the categorization of multidimensional stimuli: II. Strategic information search in humans (Homo sapiens) but not in pigeons (Columba livia). Journal of Comparative Psychology, 123, 406-420. [pdf]
 
-Milton, F., & Wills, A.J. (2009). [Eye movements in overall similarity and single-dimension sorting](pu126.md). In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society.
+Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens)](pu130.md). _Journal of Comparative Psychology, 123,_ 391-405. Published: 1 November 2009.
+
+Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: II. Strategic information search in humans (Homo sapiens) but not in pigeons (Columba livia)](pu131.md). _Journal of Comparative Psychology, 123_, 406-420. Published: 1 November 2009.
+
+Milton, F., & Wills, A.J. (2009). [Eye movements in overall similarity and single-dimension sorting](pu129.md). In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society. Published: August 2009.
+
+Wills, A.J. (2009). [Prediction errors and attention in the presence and absence of feedback](pu128.md). _Current Directions in Psychological Science, 18_, 95-100. Published: 1 April 2009.
+
+Milton, F., Wills, A.J., & Hodgson, T.L. (2009). [The neural basis of overall similarity and single-dimension sorting](pu127.md). _NeuroImage, 46_, 319-326. Published: 5 February 2009.
+
+Milton, F., & Wills, A.J. (2009). [Long-term persistence of sort strategy in free classification](pu126.md). _Acta Psychologica, 130_, 161-167. Published: 12 January 2009.
 
 Milton, F., & Wills, A.J. (2008). [The influence of perceptual difficulty on family resemblance sorting](pu125.md). In B.C. Love, K. McRae, & M. Sloutsky (Eds.). _Proceedings of the 30th Annual Conference of the Cognitive Science Society_ (pp. 2273-2278). Austin, TX: Cognitive Science Society. Published: August 2008.
 
