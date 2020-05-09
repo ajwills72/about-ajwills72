@@ -76,11 +76,14 @@
 [29]	Milton, F., Wills, A.J., & Hodgson, T.L. (2009). The neural basis of overall similarity and single-dimension sorting. NeuroImage, 46, 319-326. [pdf]
 [28]	Milton, F., & Wills, A.J. (2009). Long-term persistence of sort strategy in free classification. Acta Psychologica, 130, 161-167. [pdf]
 [27]	Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Millar, L. (2009). A comparative analysis of the categorization of multidimensional stimuli: II. Strategic information search in humans (Homo sapiens) but not in pigeons (Columba livia). Journal of Comparative Psychology, 123, 406-420. [pdf]
-[26]	Milton, F., & Wills, A.J. (2009). Eye movements in overall similarity and single-dimension sorting. In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society. [pdf]
-2008
-[25]	Milton, F., Longmore, C.A., & Wills, A.J. (2008). Processes of overall similarity sorting in free classification. Journal of Expeirmental Psychology: Human Perception and Performance, 30, 407-415. [pdf]
-[24]	Lea, S.E.G., & Wills, A.J. (2008). Use of multiple dimensions in learned discriminations. Comparative Cognition and Behavior Reviews, 3, 115-133. [pdf]
-[23]	Milton, F., & Wills, A.J. (2008). The influence of perceptual difficulty on family resemblance sorting. In B.C. Love, K. McRae, & M. Sloutsky (Eds.). Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 2273-2278). Austin, TX: Cognitive Science Society. [pdf]
+
+Milton, F., & Wills, A.J. (2009). [Eye movements in overall similarity and single-dimension sorting](pu126.md). In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society.
+
+Milton, F., & Wills, A.J. (2008). [The influence of perceptual difficulty on family resemblance sorting](pu125.md). In B.C. Love, K. McRae, & M. Sloutsky (Eds.). _Proceedings of the 30th Annual Conference of the Cognitive Science Society_ (pp. 2273-2278). Austin, TX: Cognitive Science Society. Published: August 2008.
+
+Milton, F., Longmore, C.A., & Wills, A.J. (2008). [Processes of overall similarity sorting in free classification](pu124.md). _Journal of Expeirmental Psychology: Human Perception and Performance, 30_, 407-415. Published: 1 March 2008.
+
+Lea, S.E.G., & Wills, A.J. (2008). [Use of multiple dimensions in learned discriminations](pu123.md). _Comparative Cognition and Behavior Reviews, 3_, 115-133. 
 
 Haslam, C., Wills, A.J., Haslam, S.A., Kay, J., Baron, R., & McNab, F. (2007). [Does maintenance of colour categories rely on language? Evidence to the contrary from a case of semantic dementia](pu122.md). _Brain and Language, 103_, 251-263. Published: 31 October 2007.
 
