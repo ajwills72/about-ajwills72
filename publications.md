@@ -2,13 +2,13 @@
 
 
 
-Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pu114.md). Hove: Lawrence Erlbaum Associates. Published: 2005.
+Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pu114.md). Hove: Lawrence Erlbaum Associates. 
 
-Wills, A.J. (2005). [Association and cognition](pu115.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 1-9). Lawrence Erlbaum Associates.
+Wills, A.J. (2005). [Association and cognition](pu115.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 1-9). Lawrence Erlbaum Associates.
 
-Wills, A.J. (2005). [Connectionist models of human associative learning](pu116.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 95-99). Lawrence Erlbaum Associates. [pdf]
+Wills, A.J. (2005). [Connectionist models of human associative learning](pu116.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 95-99). Lawrence Erlbaum Associates. [pdf]
 
-Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised and unsupervised categorization](pu117.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 101-123). Lawrence Erlbaum Associates.
+Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised and unsupervised categorization](pu117.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 101-123). Lawrence Erlbaum Associates.
 
 Wills, A.J. (2005). [Applications and extensions](pu118.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 189-191). Lawrence Erlbaum Associates.
 
