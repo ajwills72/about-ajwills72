@@ -50,13 +50,16 @@
 [51]	Wills, A.J., Longmore, C.A., & Milton, F. (2013). Impulsivity and overall similarity classification. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3783-3788). Austin, TX: Cognitive Science Society. [pdf]
 [50]	Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2013). Implicit learning: A demonstration and a revision to a novel SRT paradigm. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3829-3834). Austin, TX: Cognitive Science Society. [pdf]
 [49]	Roberts, H., Watkins, E.R., & Wills, A.J. (2013). Cueing an unresolved personal goal causes persistent ruminative self-focus: an experimental evaluation of control theories of rumination. Journal of Behavior Therapy and Experimental Psychiatry, 44, 449-455. [pdf]
-2012
-[48]	Wills, A.J., & Pothos, E.M. (2012). On the adequacy of current empirical evaluations of formal models of categorization. Psychological Bulletin, 138, 102-125. [pdf]
-[47]	Wills, A.J., & Pothos, E.M. (2012). On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012). Psychological Bulletin, 138, 1253-1258. [pdf]
-[46]	Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2012). Implicit Learning: A Demonstration and a Novel SRT Paradigm. In N Miyake, D Peebles, & RP Cooper (Eds.). Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 1185-1190). Austin, TX: Cognitive Science Society. [pdf]
-[45]	Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2012). State-trace analysis of sequence learning by recurrent networks. In N Miyake, D Peebles, & RP Cooper (Eds.). Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 2581-2586). Austin, TX: Cognitive Science Society. [pdf]
 
-[44]	Kovacs, T., & Wills, A.J. (2012). Generalization versus discrimination in learning. In N.M. Seele (Ed.). Encyclopedia of the Sciences of Learning (pp. ). Springer.
+Wills, A.J., & Pothos, E.M. (2012). [On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012)](pu148.md). _Psychological Bulletin, 138_, 1253-1258. Published: 1 November 2012.
+
+Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2012). [Implicit Learning: A Demonstration and a Novel SRT Paradigm](pu147.md). In N Miyake, D Peebles, & RP Cooper (Eds.). _Proceedings of the 34th Annual Conference of the Cognitive Science Society_ (pp. 1185-1190). Austin, TX: Cognitive Science Society. Published: August 2012.
+
+Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2012). [State-trace analysis of sequence learning by recurrent networks](pu146.md). In N Miyake, D Peebles, & RP Cooper (Eds.). _Proceedings of the 34th Annual Conference of the Cognitive Science Society_ (pp. 2581-2586). Austin, TX: Cognitive Science Society. Published: August 2012.
+
+Wills, A.J., & Pothos, E.M. (2012). [On the adequacy of current empirical evaluations of formal models of categorization](pu145.md). Psychological Bulletin, 138, 102-125. Published: 1 January 2012.
+
+Kovacs, T., & Wills, A.J. (2012). [Generalization versus discrimination in learning](pu144.md). In N.M. Seele (Ed.). _Encyclopedia of the Sciences of Learning_ (pp. ). Springer. Published: 18 October 2011.
 
 Wills, A.J. (2011). [Learning from errors: Perspectives from basic research](pu143.md). In E. Wuttke, & J. Seifried (Eds.). _Learning from Errors at School and at Work_ (pp. 143-153). Verlag Barbara Budrich. Published: 11 November 2011.
 
