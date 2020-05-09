@@ -67,11 +67,12 @@
 [36]	McLaren, I.P.L., Wills, A.J., & Graham, S. (2011). Representation development, perceptual learning and concept formation. Behavioral and Brain Sciences, 34, 141-142. [pdf]
 [35]	Wills, A.J. (2011). Learning from errors: Perspectives from basic research. In E. Wuttke, & J. Seifried (Eds.). Learning from Errors at School and at Work (pp. 143-153). Verlag Barbara Budrich.
 2010
-[34]	Beesley, T., Wills, A.J., & Le Pelley, M.E. (2010). Syntactic transfer in artificial grammar learning. Psychonomic Bulletin and Review, 17, 122-128. [pdf]
-[33]	Hopewell, L., Leaver, L.A., Lea, S.E.G., & Wills, A.J. (2010). Grey squirrels (Sciurus carolinensis) show a feature-negative effect specific to social learning. Animal Cognition, 13, 219-227. [pdf]
 
-[32]	McLaren, I.P.L., Wills, A.J., & Graham, S. (2010). Attention and Perceptual Learning. In C. Mitchell, & M. Le Pelley (Eds.). Attention and associative learning: From brain to behaviour (pp. ). Oxford: Oxford University Press. [pdf]
-2009
+Beesley, T., Wills, A.J., & Le Pelley, M.E. (2010). [Syntactic transfer in artificial grammar learning](pu134.md). _Psychonomic Bulletin and Review, 17_, 122-128. Published: February 2010.
+
+McLaren, I.P.L., Wills, A.J., & Graham, S. (2010). [Attention and Perceptual Learning](pu133.md). In C. Mitchell, & M. Le Pelley (Eds.). _Attention and associative learning: From brain to behaviour_. Oxford: Oxford University Press. 
+
+Hopewell, L., Leaver, L.A., Lea, S.E.G., & Wills, A.J. (2010). [Grey squirrels (Sciurus carolinensis) show a feature-negative effect specific to social learning](pu132.md). Animal Cognition, 13, 219-227. Published: 09 July 2009
 
 Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens)](pu130.md). _Journal of Comparative Psychology, 123,_ 391-405. Published: 1 November 2009.
 
