@@ -2,9 +2,15 @@
 
 
 
-Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pu114.md). Hove: Lawrence Erlbaum Associates. Published: 2005. Includes:
+Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pu114.md). Hove: Lawrence Erlbaum Associates. Published: 2005.
 
-- Wills, A.J. (2005). [Association and cognition](pu115.md). (pp. 1-9).
+Wills, A.J. (2005). [Association and cognition](pu115.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 1-9). Lawrence Erlbaum Associates.
+
+Wills, A.J. (2005). [Connectionist models of human associative learning](pu116.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 95-99). Lawrence Erlbaum Associates. [pdf]
+
+Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised and unsupervised categorization](pu117.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 101-123). Lawrence Erlbaum Associates.
+
+Wills, A.J. (2005). [Applications and extensions](pu118.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 189-191). Lawrence Erlbaum Associates.
 
 Le Pelley, M.E., Oakeshott, S.M., Wills, A.J., & McLaren, I.P.L. (2005). [The outcome-specificity of learned predictiveness effects: Parallels between human causal learning and animal conditioning](pu113md). _Journal of Experimental Psychology: Animal Behavior Processes, 31,_ 2226-236.Published: 1 April 2005.
 
