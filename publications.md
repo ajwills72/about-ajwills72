@@ -1,6 +1,94 @@
 # Publications
 
+[90]	Spicer, S.G., Mitchell, C.J., Wills, A.J., & Jones, P.M. (accepted). Theory protection in associative learning: humans maintain certain beliefs in a manner that violates prediction error. Journal of Experimental Psychology: Animal Learning and Cognition, , . [pdf] accepted: 2019-07-19
+[89]	Seabrooke, T., Mitchell, C. J., Wills, A. J., & Hollins, T. J. (accepted). Pretesting boosts recognition, but not cued recall, of targets from unrelated word pairs. Psychonomic Bulletin and Review, , . [pdf] accepted: 2019-11-26
+2020
+[88]	Wills, A.J., Ellett, L., Milton, F., Croft, G., & Beesley, T. (2020). A dimensional summation account of polymorphous category learning. Learning and Behavior, 48, 66-83. psyarxiv accepted: 2019-12-23
+[87]	Milton, F., McLaren, I.P.L., Copestake, E., Satherley, D., & Wills, A.J. (2020). The effect of pre-exposure on overall similarity categorization. Journal of Experimental Psychology: Animal Learning and Cognition, 46, 65-82. [pdf] [IR] accepted: 2019-08-03
+2019
+[86]	Seabrooke, T., Mitchell, C.J., Wills, A.J., Waters, J.L., & Hollins, T.J. (2019). Selective effects of errorful generation on recognition memory: The role of motivation and surprise. Memory, 27, 1250-1262. [pdf] accepted: 2019-07-16
+[85]	Wills, A.J., Edmunds, C.E.R., Le Pelley, M.E., Milton, F., Newell, B.R., Dwyer, D.M., & Shanks, D.R. (2019). Dissociable learning processes, associative theory, and testimonial reviews: A comment on Smith and Church (2018). Psychonomic Bulletin & Review, 26, 1988-1993. [pdf] [IR] accepted: 2019-07-01
+[84]	Wills, A.J. (2019). Open science, open source and R. Linux Journal, 295, 166-176. [pdf] accetped: 2019-01-01
+[83]	Seabrooke, T., Hollins, T.J., Kent, C., Wills, A.J., & Mitchell, C.J. (2019). Learning from failure: Errorful generation improves memory for items, not associations. Journal of Memory and Language, 104, 70-82. [pdf] [exp. 1] [exp. 2] [exp. 3] [exp. 4] [exp. 5] [IR] accepted: 2018-10-04
+[82]	Seabrooke, T., Wills, A.J., Hogarth, L., & Mitchell, C.J. (2019). Automaticity and cognitive control: Effects of cognitive load on cue-controlled reward choice. Quarterly Journal of Experimental Psychology, 72, 1507-1521. [pdf] [exp. 1] [exp. 2] [IR] accepted: 2018-08-05
+[81]	Edmunds, C.E.R., Wills, A.J., & Milton, F. (2019). Initial training with difficult items does not facilitate category learning. Quarterly Journal of Experimental Psychology, 72, 151-167. [pdf] [exp. 1] [exp. 2] [exp. 3] [exp. 4] [IR] accepted: 2017-07-12
+2018
+[80]	Sambrook, T.D., Wills, A.J., Hardwick, B., & Goslin, J. (2018). Model-free and model-based reward prediction errors in EEG. NeuroImage, 178, 162-171. [pdf] [model fits] [IR] accepted: 2018-05-08
+[79]	Schlegelmilch, R., Wills, A.J., & von Helversen, B. (2018). CALM - A Process Model of Category Generalization, Abstraction and Structuring. In T. Rogers, M. Rau, X. Zhu, & C.W. Kalish (Eds.). Proceedings of the 40th Annual Conference of the Cognitive Science Society (pp. 2436-2441). Austin, TX: Cognitive Science Society. [pdf] accetped: 2018-04-13
+[78]	Lea, S.E.G., Pothos, E.M., Wills, A.J., Leaver, L.A., Ryan, C.M.E., & Meier, C. (2018). Multiple Feature Use in Pigeons’ Category Discrimination: The Influence of Stimulus Set Structure and the Salience of Stimulus Differences. Journal of Experimental Psychology: Animal Learning and Cognition, 44, 114-127. [pdf] [IR] accepted: 2018-01-27
+[77]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2018). Due process in dual process: Model-recovery simulations of decision-bound strategy analysis in category learning. Cognitive Science, 42, 833-860. [pdf] [simulation code] [IR] accepted: 2018-01-18
+[76]	Longman, C.S., Milton, F., Wills, A.J., & Verbruggen, F. (2018). Transfer of learned category-response associations is modulated by instruction. Acta Psychologica, 184, 144-167. [pdf] [data, analysis] [IR] accepted: 2017-04-11
+2017
+[75]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). Due process in dual process: A model-recovery analysis of Smith et al. (2014). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). Proceedings of the 39th Annual Conference of the Cognitive Science Society (pp. 1979-1984). Austin, TX: Cognitive Science Society. [pdf] accepted: 2017-04-11
+[74]	Lawson, R., Chang, F., & Wills, A. J. (2017). Free classification of large sets of everday objects is more thematic than taxonomic. Acta Psychologica, 172, 26-40. [pdf] [data, analysis] [get freesortphi] [IR] accepted: 2016-11-01
+[73]	Wills, A.J., & Hollins, T.J. (2017). In defence of effect-centric research. Journal of Applied Research in Memory and Cognition, 6, 43--46. [pdf] [IR] accepted: 2016-10-31
+[72]	Milton, F., Bealing, P., Carpenter, K.L., Bennattayallah, A., & Wills, A.J. (2017). The neural correlates of similarity- and rule-based generalization. Journal of Cognitive Neuroscience, 29, 150-166. [pdf] [data, analysis] [IR] accepted: 2016-07-26
+[71]	Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples. Psychology of Learning and Motivation, 66, 79-115. [pdf] [latex] [IR] [get catlearn] [video: conference talk, EPS Jan 2017] accepted: 2016-07-14
+[70]	Roberts, H., Watkins, E., & Wills, A.J. (2017). Does rumination cause "inhibitory" deficits?. Psychopathology Review, 4, 341-376. [pdf] [IR] accepted: 2015-01-28
+2016
+[69]	Le Pelley, M.E., Mitchell, C.J., Beesley, T., George, D.N., & Wills, A.J. (2016). Attention and associative learning in humans: An integrative review. Psychological Bulletin, 142, 1111-1140. [pdf] [IR]
+[68]	Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). A comparison of the neural correlates that underlie rule-based and information-integration category learning. Human Brain Mapping, 37, 3557–3574. [pdf] [IR]
+[67]	O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck, M.A., & Wills, A.J. (2016). Amnesic patients show superior generalization in category learning. Neuropsychology, 30, 915–919. [pdf] [simulation,data] [IR]
+[66]	Edmunds, C.E.R., Wills, A.J., & Milton, F.N. (2016). Memory for exemplars in category learning. In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). Proceedings of the 38th Annual Conference of the Cognitive Science Society (pp. 2243-2248). Austin, TX: Cognitive Science Society. [pdf]
+[65]	Edmunds, C.E.R., & Wills, A.J. (2016). Modeling category learning using a dual-system approach: A simulation of Shepard, Hovland and Jenkins (1961) by COVIS. In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). Proceedings of the 38th Annual Conference of the Cognitive Science Society (pp. 69-74). Austin, TX: Cognitive Science Society. [pdf]
+2015
+[64]	Wills, A.J., Inkster, A.B., & Milton, F. (2015). Combination or Differentiation? Two theories of processing order in classification. Cognitive Psychology, 80, 1-33. [pdf] [suppl.] [exp. 1] [exp. 2] [exp. 3A] [exp. 3B] [impuls.] [exp. 4A] [exp. 4B] [exp. 5] [IR]
+[63]	Maes, E., De Filippo, G., Inkster, A., Lea, S.E.G., De Houwer, J., D'Hooge, R., Beckers, T., & Wills, A.J. (2015). Feature- versus rule-based generalization in rats, pigeons and humans. Animal Cognition, 18, 1267--1284. [pdf] [exp. 1A] [exp. 1B] [exp. 2A] [exp. 2B] [IR]
+[62]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2015). Feedback can be superior to observational training for both rule-based and information-integration category structures. Quarterly Journal of Experimental Psychology, 68, 1203-1222. [pdf] [exp. 1] [exp. 2] [IR]
+[61]	Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2015). State trace analysis: Dissociable processes in a connectionist network?. Cognitive Science, 39, 1047-1061. [pdf] [IR]
+[60]	Hogarth, L., Zhimin, H., Chase, H.W., Wills, A.J., Troisi II, J., Leventhal, M., Mathew, A.R., & Hitsman, B. (2015). Negative mood reverses devaluation of goal-directed drug-seeking favouring an incentive learning account of drug dependence. Psychopharmacology, 232, 3235-3247. [pdf] [IR]
+2014
+[59]	Wills, A.J., Lavric, A., Hemmings, Y., & Surrey, E. (2014). Attention, predictive learning, and the inverse base-rate effect: Evidence from event-related potentials. NeuroImage, 87, 61-71. [pdf] [IR]
+[58]	Inkster, A. B., Milton, F. N., & Wills, A. J. (2014). Does incidental training increase the prevalence of overall similarity classification ? A re-examination of Kemler Nelson (1984). In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 649-653). Austin, TX: Cognitive Science Society. [pdf]
+[57]	Milton, F., Copestake, E., Satherley, D., Stevens, T., & Wills, A. J. (2014). The effect of pre-exposure on family resemblance categorization for stimuli of varying levels of perceptual difficulty. In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 1018-1023). Austin, TX: Cognitive Science Society. [pdf]
+[56]	Carmantini, G. S., Cangelosi, A., & Wills, A. (2014). Machine learning of visual object categorization: An application of the SUSTAIN model. In P Bello, M Guarini, M McShane, & B Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 290-295). Austin, TX: Cognitive Science Society. [pdf]
+2013
+[55]	Wills, A.J., Milton, F., Longmore, C.A., Hester, S., & Robinson, J. (2013). Is overall similarity classification less effortful than single-dimension classification?. Quarterly Journal of Experimental Psychology, 66, 299-318. [pdf] [exp. 1A] [exp. 1B] [exp. 2] [exp. 3] [exp. 4]
+[54]	Newell, B.R., Moore, C.P., Wills, A.J., & Milton, F. (2013). Reinstating the frontal lobes? Having more time to think improves 'implicit' perceptual categorization. A comment on Filoteo, Lauritzen and Maddox (2010). Psychological Science, 24, 386-389. [pdf]
+[53]	Yeates, F., Wills, A.J., McLaren, R.P., & McLaren, I.P.L. (2013). Modeling human sequence learning under incidental conditions. Journal of Experimental Psychology: Animal Behavior Processes, 39, 166-173. [pdf]
+[52]	Wills, A.J. (2013). Models of categorization. In D. Reisberg (Ed.). Oxford Handbook of Cognitive Psychology (pp. 346-357). Oxford: Oxford University Press. [pdf]
+[51]	Wills, A.J., Longmore, C.A., & Milton, F. (2013). Impulsivity and overall similarity classification. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3783-3788). Austin, TX: Cognitive Science Society. [pdf]
+[50]	Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2013). Implicit learning: A demonstration and a revision to a novel SRT paradigm. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3829-3834). Austin, TX: Cognitive Science Society. [pdf]
+[49]	Roberts, H., Watkins, E.R., & Wills, A.J. (2013). Cueing an unresolved personal goal causes persistent ruminative self-focus: an experimental evaluation of control theories of rumination. Journal of Behavior Therapy and Experimental Psychiatry, 44, 449-455. [pdf]
+2012
+[48]	Wills, A.J., & Pothos, E.M. (2012). On the adequacy of current empirical evaluations of formal models of categorization. Psychological Bulletin, 138, 102-125. [pdf]
+[47]	Wills, A.J., & Pothos, E.M. (2012). On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012). Psychological Bulletin, 138, 1253-1258. [pdf]
+[46]	Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2012). Implicit Learning: A Demonstration and a Novel SRT Paradigm. In N Miyake, D Peebles, & RP Cooper (Eds.). Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 1185-1190). Austin, TX: Cognitive Science Society. [pdf]
+[45]	Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2012). State-trace analysis of sequence learning by recurrent networks. In N Miyake, D Peebles, & RP Cooper (Eds.). Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 2581-2586). Austin, TX: Cognitive Science Society. [pdf]
+[44]	Kovacs, T., & Wills, A.J. (2012). Generalization versus discrimination in learning. In N.M. Seele (Ed.). Encyclopedia of the Sciences of Learning (pp. ). Springer.
+2011
+[43]	Wills, A.J., Graham, S., Koh, Z., McLaren, I.P.L., & Rolland, M.D. (2011). Effects of concurrent load on feature- and rule-based generalization in human contingency learning. Journal of Experimental Psychology: Animal Behavior Processes, 37, 308-316. [pdf] [exp. 1] [exp. 2]
+[42]	Welham, A.K., & Wills, A.J. (2011). Unitization, similarity and overt attention in categorization and exposure. Memory and Cognition, 39, 1518-1533. [pdf]
+[41]	Graham, S., Jie, H.L., Minn, C.H., McLaren, I.P.L., & Wills, A.J. (2011). Simultaneous backward conditioned inhibition and mediated conditioning. Journal of Experimental Psychology: Animal Behavior Processes, 31, 241-245. [pdf]
+[40]	Goto, K., Lea, S.E.G., Wills, A.J., & Milton, F. (2011). Interpreting the effects of image manipulation on picture perception in pigeons (Columba livia) and humans (Homo sapiens). Journal of Comparative Psychology, 125, 48-60. [pdf]
+[39]	Pothos, E.M., & Wills, A.J. (2011). Formal approaches in categroization. Cambridge University Press. [pdf]
+[38]	Wills, A.J., Barrasin, T.J., & McLaren, I.P.L. (2011). Working memory capacity and generalization in predictive learning. In L. Carlson, C. Holscher, & T. Shipley (Eds.). Proceedings of the 33rd Annual Conference of the Cognitive Science Society (pp. 3205-3210). Austin, TX: Cognitive Science Society. [pdf]
+[37]	Milton, F., Viika, L., Henderson, H., & Wills, A.J. (2011). The effect of time pressure and the spatial integration of the stimulus dimensions on overall similarity categorization. In L. Carlson, C. Holscher, & T. Shipley (Eds.). Proceedings of the 33rd Annual Conference of the Cognitive Science Society (pp. 795-800). Austin, TX: Cognitive Science Society. [pdf]
+[36]	McLaren, I.P.L., Wills, A.J., & Graham, S. (2011). Representation development, perceptual learning and concept formation. Behavioral and Brain Sciences, 34, 141-142. [pdf]
+[35]	Wills, A.J. (2011). Learning from errors: Perspectives from basic research. In E. Wuttke, & J. Seifried (Eds.). Learning from Errors at School and at Work (pp. 143-153). Verlag Barbara Budrich.
+2010
+[34]	Beesley, T., Wills, A.J., & Le Pelley, M.E. (2010). Syntactic transfer in artificial grammar learning. Psychonomic Bulletin and Review, 17, 122-128. [pdf]
+[33]	Hopewell, L., Leaver, L.A., Lea, S.E.G., & Wills, A.J. (2010). Grey squirrels (Sciurus carolinensis) show a feature-negative effect specific to social learning. Animal Cognition, 13, 219-227. [pdf]
+[32]	McLaren, I.P.L., Wills, A.J., & Graham, S. (2010). Attention and Perceptual Learning. In C. Mitchell, & M. Le Pelley (Eds.). Attention and associative learning: From brain to behaviour (pp. ). Oxford: Oxford University Press. [pdf]
+2009
+[31]	Wills, A.J. (2009). Prediction errors and attention in the presence and absence of feedback. Current Directions in Psychological Science, 18, 95-100. [pdf]
+[30]	Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens). Journal of Comparative Psychology, 123, 391-405. [pdf] [exp1a] [exp1b] [exp2] [squirrel video]
+[29]	Milton, F., Wills, A.J., & Hodgson, T.L. (2009). The neural basis of overall similarity and single-dimension sorting. NeuroImage, 46, 319-326. [pdf]
+[28]	Milton, F., & Wills, A.J. (2009). Long-term persistence of sort strategy in free classification. Acta Psychologica, 130, 161-167. [pdf]
+[27]	Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Millar, L. (2009). A comparative analysis of the categorization of multidimensional stimuli: II. Strategic information search in humans (Homo sapiens) but not in pigeons (Columba livia). Journal of Comparative Psychology, 123, 406-420. [pdf]
+[26]	Milton, F., & Wills, A.J. (2009). Eye movements in overall similarity and single-dimension sorting. In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society. [pdf]
+2008
+[25]	Milton, F., Longmore, C.A., & Wills, A.J. (2008). Processes of overall similarity sorting in free classification. Journal of Expeirmental Psychology: Human Perception and Performance, 30, 407-415. [pdf]
+[24]	Lea, S.E.G., & Wills, A.J. (2008). Use of multiple dimensions in learned discriminations. Comparative Cognition and Behavior Reviews, 3, 115-133. [pdf]
+[23]	Milton, F., & Wills, A.J. (2008). The influence of perceptual difficulty on family resemblance sorting. In B.C. Love, K. McRae, & M. Sloutsky (Eds.). Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 2273-2278). Austin, TX: Cognitive Science Society. [pdf]
 
+Haslam, C., Wills, A.J., Haslam, S.A., Kay, J., Baron, R., & McNab, F. (2007). [Does maintenance of colour categories rely on language? Evidence to the contrary from a case of semantic dementia](pu122.md). _Brain and Language, 103_, 251-263. Published: 31 October 2007.
+
+Wills, A.J., Lavric, A., Croft, G., & Hodgson, T.L. (2007). [Predictive learning, prediction errors and attention: Evidence from event-related potentials and eye tracking](pu121.md). _Journal of Cognitive Neuroscience, 19_, 843-854. Published: 8 May 2007.
+
+Wills, A.J., Noury, M., Moberly, M.J., & Newport, M. (2006). [Formation of category representations](pu120.md). _Memory and Cognition, 34_, 17-27. Published: January 2006.
+
+Lea, S.E.G., Wills, A.J., & Ryan, C.M.E. (2006). [Why are artificial polymorphous concepts so hard for birds to learn?](pu119.md). _Quarterly Journal of Experimental Psychology, 59_, 251-267. Published: 13 July 2005
 
 Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pu114.md). Hove: Lawrence Erlbaum Associates. 
 
