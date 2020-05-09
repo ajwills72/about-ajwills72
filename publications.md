@@ -42,16 +42,22 @@
 [58]	Inkster, A. B., Milton, F. N., & Wills, A. J. (2014). Does incidental training increase the prevalence of overall similarity classification ? A re-examination of Kemler Nelson (1984). In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 649-653). Austin, TX: Cognitive Science Society. [pdf]
 [57]	Milton, F., Copestake, E., Satherley, D., Stevens, T., & Wills, A. J. (2014). The effect of pre-exposure on family resemblance categorization for stimuli of varying levels of perceptual difficulty. In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 1018-1023). Austin, TX: Cognitive Science Society. [pdf]
 [56]	Carmantini, G. S., Cangelosi, A., & Wills, A. (2014). Machine learning of visual object categorization: An application of the SUSTAIN model. In P Bello, M Guarini, M McShane, & B Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 290-295). Austin, TX: Cognitive Science Society. [pdf]
-2013
-[55]	Wills, A.J., Milton, F., Longmore, C.A., Hester, S., & Robinson, J. (2013). Is overall similarity classification less effortful than single-dimension classification?. Quarterly Journal of Experimental Psychology, 66, 299-318. [pdf] [exp. 1A] [exp. 1B] [exp. 2] [exp. 3] [exp. 4]
-[54]	Newell, B.R., Moore, C.P., Wills, A.J., & Milton, F. (2013). Reinstating the frontal lobes? Having more time to think improves 'implicit' perceptual categorization. A comment on Filoteo, Lauritzen and Maddox (2010). Psychological Science, 24, 386-389. [pdf]
-[53]	Yeates, F., Wills, A.J., McLaren, R.P., & McLaren, I.P.L. (2013). Modeling human sequence learning under incidental conditions. Journal of Experimental Psychology: Animal Behavior Processes, 39, 166-173. [pdf]
-[52]	Wills, A.J. (2013). Models of categorization. In D. Reisberg (Ed.). Oxford Handbook of Cognitive Psychology (pp. 346-357). Oxford: Oxford University Press. [pdf]
-[51]	Wills, A.J., Longmore, C.A., & Milton, F. (2013). Impulsivity and overall similarity classification. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3783-3788). Austin, TX: Cognitive Science Society. [pdf]
-[50]	Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2013). Implicit learning: A demonstration and a revision to a novel SRT paradigm. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3829-3834). Austin, TX: Cognitive Science Society. [pdf]
-[49]	Roberts, H., Watkins, E.R., & Wills, A.J. (2013). Cueing an unresolved personal goal causes persistent ruminative self-focus: an experimental evaluation of control theories of rumination. Journal of Behavior Therapy and Experimental Psychiatry, 44, 449-455. [pdf]
 
-Wills, A.J., & Pothos, E.M. (2012). [On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012)](pu148.md). _Psychological Bulletin, 138_, 1253-1258. Published: 1 November 2012.
+Roberts, H., Watkins, E.R., & Wills, A.J. (2013). [Cueing an unresolved personal goal causes persistent ruminative self-focus: an experimental evaluation of control theories of rumination](pu155.md). _Journal of Behavior Therapy and Experimental Psychiatry, 44_, 449-455. Published: December 2013.
+
+Wills, A.J., Milton, F., Longmore, C.A., Hester, S., & Robinson, J. (2013). [Is overall similarity classification less effortful than single-dimension classification?](pu154.md). _Quarterly Journal of Experimental Psychology, 66_, 299-318. Published: 17 August 2012.
+
+Wills, A.J., Longmore, C.A., & Milton, F. (2013). [Impulsivity and overall similarity classification](pu153.md). In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). _Proceedings of the 35th Annual Conference of the Cognitive Science Society_ (pp. 3783-3788). Austin, TX: Cognitive Science Society. Published: August 2013.
+
+Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2013). [Implicit learning: A demonstration and a revision to a novel SRT paradigm](pu152.md). In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). _Proceedings of the 35th Annual Conference of the Cognitive Science Society_ (pp. 3829-3834). Austin, TX: Cognitive Science Society. Published: August 2013.
+
+Wills, A.J. (2013). [Models of categorization](pu151.md). In D. Reisberg (Ed.). Oxford Handbook of Cognitive Psychology (pp. 346-357). Oxford: Oxford University Press. Published: June 2013.
+
+Yeates, F., Wills, A.J., McLaren, R.P., & McLaren, I.P.L. (2013). [Modeling human sequence learning under incidental conditions](pu150.md). _Journal of Experimental Psychology: Animal Behavior Processes, 39_, 166-173. Published: April 2013.
+
+Newell, B.R., Moore, C.P., Wills, A.J., & Milton, F. (2013). [Reinstating the frontal lobes? Having more time to think improves 'implicit' perceptual categorization. A comment on Filoteo, Lauritzen and Maddox (2010)](pu149.md). _Psychological Science, 24_, 386-389. Published: 6 February 2013.
+
+Wills, A.J., & Pothos, E.M. (2012). [On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012)](pu148.md). _Psychological Bulletin, 138_, 1253-1258. Published: November 2012.
 
 Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2012). [Implicit Learning: A Demonstration and a Novel SRT Paradigm](pu147.md). In N Miyake, D Peebles, & RP Cooper (Eds.). _Proceedings of the 34th Annual Conference of the Cognitive Science Society_ (pp. 1185-1190). Austin, TX: Cognitive Science Society. Published: August 2012.
 
