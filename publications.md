@@ -24,21 +24,28 @@
 [73]	Wills, A.J., & Hollins, T.J. (2017). In defence of effect-centric research. Journal of Applied Research in Memory and Cognition, 6, 43--46. [pdf] [IR] accepted: 2016-10-31
 [72]	Milton, F., Bealing, P., Carpenter, K.L., Bennattayallah, A., & Wills, A.J. (2017). The neural correlates of similarity- and rule-based generalization. Journal of Cognitive Neuroscience, 29, 150-166. [pdf] [data, analysis] [IR] accepted: 2016-07-26
 [71]	Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples. Psychology of Learning and Motivation, 66, 79-115. [pdf] [latex] [IR] [get catlearn] [video: conference talk, EPS Jan 2017] accepted: 2016-07-14
-[70]	Roberts, H., Watkins, E., & Wills, A.J. (2017). Does rumination cause "inhibitory" deficits?. Psychopathology Review, 4, 341-376. [pdf] [IR] accepted: 2015-01-28
-2016
-[69]	Le Pelley, M.E., Mitchell, C.J., Beesley, T., George, D.N., & Wills, A.J. (2016). Attention and associative learning in humans: An integrative review. Psychological Bulletin, 142, 1111-1140. [pdf] [IR]
-[68]	Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). A comparison of the neural correlates that underlie rule-based and information-integration category learning. Human Brain Mapping, 37, 3557–3574. [pdf] [IR]
-[67]	O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck, M.A., & Wills, A.J. (2016). Amnesic patients show superior generalization in category learning. Neuropsychology, 30, 915–919. [pdf] [simulation,data] [IR]
-[66]	Edmunds, C.E.R., Wills, A.J., & Milton, F.N. (2016). Memory for exemplars in category learning. In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). Proceedings of the 38th Annual Conference of the Cognitive Science Society (pp. 2243-2248). Austin, TX: Cognitive Science Society. [pdf]
-[65]	Edmunds, C.E.R., & Wills, A.J. (2016). Modeling category learning using a dual-system approach: A simulation of Shepard, Hovland and Jenkins (1961) by COVIS. In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). Proceedings of the 38th Annual Conference of the Cognitive Science Society (pp. 69-74). Austin, TX: Cognitive Science Society. [pdf]
-2015
-[64]	Wills, A.J., Inkster, A.B., & Milton, F. (2015). Combination or Differentiation? Two theories of processing order in classification. Cognitive Psychology, 80, 1-33. [pdf] [suppl.] [exp. 1] [exp. 2] [exp. 3A] [exp. 3B] [impuls.] [exp. 4A] [exp. 4B] [exp. 5] [IR]
-[63]	Maes, E., De Filippo, G., Inkster, A., Lea, S.E.G., De Houwer, J., D'Hooge, R., Beckers, T., & Wills, A.J. (2015). Feature- versus rule-based generalization in rats, pigeons and humans. Animal Cognition, 18, 1267--1284. [pdf] [exp. 1A] [exp. 1B] [exp. 2A] [exp. 2B] [IR]
-[62]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2015). Feedback can be superior to observational training for both rule-based and information-integration category structures. Quarterly Journal of Experimental Psychology, 68, 1203-1222. [pdf] [exp. 1] [exp. 2] [IR]
-[61]	Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2015). State trace analysis: Dissociable processes in a connectionist network?. Cognitive Science, 39, 1047-1061. [pdf] [IR]
 
-Hogarth, L., Zhimin, H., Chase, H.W., Wills, A.J., Troisi II, J., Leventhal, M., Mathew, A.R., & Hitsman, B. (2015). Negative mood reverses devaluation of goal-directed drug-seeking favouring an incentive learning account of drug dependence. Psychopharmacology, 232, 3235-3247. [pdf] [IR]
-2014
+[70]	Roberts, H., Watkins, E., & Wills, A.J. (2017). Does rumination cause "inhibitory" deficits?. Psychopathology Review, 4, 341-376. [pdf] [IR] accepted: 2015-01-28
+
+O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck, M.A., & Wills, A.J. (2016). [Amnesic patients show superior generalization in category learning](pu169.md). _Neuropsychology, 30_, 915–919. Published: November 2016.
+
+Le Pelley, M.E., Mitchell, C.J., Beesley, T., George, D.N., & Wills, A.J. (2016). [Attention and associative learning in humans: An integrative review](pu168.md). _Psychological Bulletin, 142_, 1111-1140. Published: October 2016.
+
+Edmunds, C.E.R., Wills, A.J., & Milton, F.N. (2016). [Memory for exemplars in category learning](pu167.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 2243-2248). Austin, TX: Cognitive Science Society. Published: August 2016.
+
+Edmunds, C.E.R., & Wills, A.J. (2016). [Modeling category learning using a dual-system approach: A simulation of Shepard, Hovland and Jenkins (1961) by COVIS](pu166.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 69-74). Austin, TX: Cognitive Science Society. Published: August 2016.
+
+Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). [A comparison of the neural correlates that underlie rule-based and information-integration category learning](pu165.md). _Human Brain Mapping, 37_, 3557–3574. Published: 20 May 2016.
+
+Maes, E., De Filippo, G., Inkster, A., Lea, S.E.G., De Houwer, J., D'Hooge, R., Beckers, T., & Wills, A.J. (2015). [Feature- versus rule-based generalization in rats, pigeons and humans](pu164.md). _Animal Cognition, 18_, 1267-1284. Published: 19 July 2015.
+
+Wills, A.J., Inkster, A.B., & Milton, F. (2015). [Combination or Differentiation? Two theories of processing order in classification](pu163.md). _Cognitive Psychology, 80_, 1-33. Published: 8 June 2015.
+
+Hogarth, L., Zhimin, H., Chase, H.W., Wills, A.J., Troisi II, J., Leventhal, M., Mathew, A.R., & Hitsman, B. (2015). [Negative mood reverses devaluation of goal-directed drug-seeking favouring an incentive learning account of drug dependence](pu162.md). _Psychopharmacology, 232_, 3235-3247. Published: 5 June 2015.
+
+Edmunds, C.E.R., Milton, F., & Wills, A.J. (2015). [Feedback can be superior to observational training for both rule-based and information-integration category structures](pu161.md). _Quarterly Journal of Experimental Psychology, 68_, 1203-1222. Published: 9 Jan 2015
+
+Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2015). [State trace analysis: Dissociable processes in a connectionist network?](pu160.md) _Cognitive Science, 39_, 1047-1061. Published: 12 October 2014.
 
 Inkster, A. B., Milton, F. N., & Wills, A. J. (2014). [Does incidental training increase the prevalence of overall similarity classification? A re-examination of Kemler Nelson (1984)](pu159.md). In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). _Proceedings of the 36th Annual Conference of the Cognitive Science Society_ (pp. 649-653). Austin, TX: Cognitive Science Society. Published: August 2014.
 
