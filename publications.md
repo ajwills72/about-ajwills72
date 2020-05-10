@@ -36,12 +36,17 @@
 [63]	Maes, E., De Filippo, G., Inkster, A., Lea, S.E.G., De Houwer, J., D'Hooge, R., Beckers, T., & Wills, A.J. (2015). Feature- versus rule-based generalization in rats, pigeons and humans. Animal Cognition, 18, 1267--1284. [pdf] [exp. 1A] [exp. 1B] [exp. 2A] [exp. 2B] [IR]
 [62]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2015). Feedback can be superior to observational training for both rule-based and information-integration category structures. Quarterly Journal of Experimental Psychology, 68, 1203-1222. [pdf] [exp. 1] [exp. 2] [IR]
 [61]	Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2015). State trace analysis: Dissociable processes in a connectionist network?. Cognitive Science, 39, 1047-1061. [pdf] [IR]
-[60]	Hogarth, L., Zhimin, H., Chase, H.W., Wills, A.J., Troisi II, J., Leventhal, M., Mathew, A.R., & Hitsman, B. (2015). Negative mood reverses devaluation of goal-directed drug-seeking favouring an incentive learning account of drug dependence. Psychopharmacology, 232, 3235-3247. [pdf] [IR]
+
+Hogarth, L., Zhimin, H., Chase, H.W., Wills, A.J., Troisi II, J., Leventhal, M., Mathew, A.R., & Hitsman, B. (2015). Negative mood reverses devaluation of goal-directed drug-seeking favouring an incentive learning account of drug dependence. Psychopharmacology, 232, 3235-3247. [pdf] [IR]
 2014
-[59]	Wills, A.J., Lavric, A., Hemmings, Y., & Surrey, E. (2014). Attention, predictive learning, and the inverse base-rate effect: Evidence from event-related potentials. NeuroImage, 87, 61-71. [pdf] [IR]
-[58]	Inkster, A. B., Milton, F. N., & Wills, A. J. (2014). Does incidental training increase the prevalence of overall similarity classification ? A re-examination of Kemler Nelson (1984). In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 649-653). Austin, TX: Cognitive Science Society. [pdf]
-[57]	Milton, F., Copestake, E., Satherley, D., Stevens, T., & Wills, A. J. (2014). The effect of pre-exposure on family resemblance categorization for stimuli of varying levels of perceptual difficulty. In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 1018-1023). Austin, TX: Cognitive Science Society. [pdf]
-[56]	Carmantini, G. S., Cangelosi, A., & Wills, A. (2014). Machine learning of visual object categorization: An application of the SUSTAIN model. In P Bello, M Guarini, M McShane, & B Scassellati (Eds.). Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 290-295). Austin, TX: Cognitive Science Society. [pdf]
+
+Inkster, A. B., Milton, F. N., & Wills, A. J. (2014). [Does incidental training increase the prevalence of overall similarity classification? A re-examination of Kemler Nelson (1984)](pu159.md). In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). _Proceedings of the 36th Annual Conference of the Cognitive Science Society_ (pp. 649-653). Austin, TX: Cognitive Science Society. Published: August 2014.
+
+Milton, F., Copestake, E., Satherley, D., Stevens, T., & Wills, A. J. (2014). [The effect of pre-exposure on family resemblance categorization for stimuli of varying levels of perceptual difficulty](pu158.md). In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.). _Proceedings of the 36th Annual Conference of the Cognitive Science Society_ (pp. 1018-1023). Austin, TX: Cognitive Science Society. Published: August 2014.
+
+Carmantini, G. S., Cangelosi, A., & Wills, A. (2014). [Machine learning of visual object categorization: An application of the SUSTAIN model](pu157.md). In P Bello, M Guarini, M McShane, & B Scassellati (Eds.). _Proceedings of the 36th Annual Conference of the Cognitive Science Society_ (pp. 290-295). Austin, TX: Cognitive Science Society. Published: August 2014.
+
+Wills, A.J., Lavric, A., Hemmings, Y., & Surrey, E. (2014). [Attention, predictive learning, and the inverse base-rate effect: Evidence from event-related potentials](pu156.md). _NeuroImage, 87_, 61-71. Published online: 2 November 2013.
 
 Roberts, H., Watkins, E.R., & Wills, A.J. (2013). [Cueing an unresolved personal goal causes persistent ruminative self-focus: an experimental evaluation of control theories of rumination](pu155.md). _Journal of Behavior Therapy and Experimental Psychiatry, 44_, 449-455. Published: December 2013.
 
