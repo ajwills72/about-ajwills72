@@ -12,15 +12,19 @@
 [83]	Seabrooke, T., Hollins, T.J., Kent, C., Wills, A.J., & Mitchell, C.J. (2019). Learning from failure: Errorful generation improves memory for items, not associations. Journal of Memory and Language, 104, 70-82. [pdf] [exp. 1] [exp. 2] [exp. 3] [exp. 4] [exp. 5] [IR] accepted: 2018-10-04
 [82]	Seabrooke, T., Wills, A.J., Hogarth, L., & Mitchell, C.J. (2019). Automaticity and cognitive control: Effects of cognitive load on cue-controlled reward choice. Quarterly Journal of Experimental Psychology, 72, 1507-1521. [pdf] [exp. 1] [exp. 2] [IR] accepted: 2018-08-05
 [81]	Edmunds, C.E.R., Wills, A.J., & Milton, F. (2019). Initial training with difficult items does not facilitate category learning. Quarterly Journal of Experimental Psychology, 72, 151-167. [pdf] [exp. 1] [exp. 2] [exp. 3] [exp. 4] [IR] accepted: 2017-07-12
-2018
-[80]	Sambrook, T.D., Wills, A.J., Hardwick, B., & Goslin, J. (2018). Model-free and model-based reward prediction errors in EEG. NeuroImage, 178, 162-171. [pdf] [model fits] [IR] accepted: 2018-05-08
-[79]	Schlegelmilch, R., Wills, A.J., & von Helversen, B. (2018). CALM - A Process Model of Category Generalization, Abstraction and Structuring. In T. Rogers, M. Rau, X. Zhu, & C.W. Kalish (Eds.). Proceedings of the 40th Annual Conference of the Cognitive Science Society (pp. 2436-2441). Austin, TX: Cognitive Science Society. [pdf] accetped: 2018-04-13
-[78]	Lea, S.E.G., Pothos, E.M., Wills, A.J., Leaver, L.A., Ryan, C.M.E., & Meier, C. (2018). Multiple Feature Use in Pigeons’ Category Discrimination: The Influence of Stimulus Set Structure and the Salience of Stimulus Differences. Journal of Experimental Psychology: Animal Learning and Cognition, 44, 114-127. [pdf] [IR] accepted: 2018-01-27
-[77]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2018). Due process in dual process: Model-recovery simulations of decision-bound strategy analysis in category learning. Cognitive Science, 42, 833-860. [pdf] [simulation code] [IR] accepted: 2018-01-18
-[76]	Longman, C.S., Milton, F., Wills, A.J., & Verbruggen, F. (2018). Transfer of learned category-response associations is modulated by instruction. Acta Psychologica, 184, 144-167. [pdf] [data, analysis] [IR] accepted: 2017-04-11
-2017
 
-Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). [Due process in dual process: A model-recovery analysis of Smith et al. (2014)](pu014.md). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). _Proceedings of the 39th Annual Conference of the Cognitive Science Society_ (pp. 1979-1984). Austin, TX: Cognitive Science Society. Accepted: 2017-04-11. Published: August 2017/
+Sambrook, T.D., Wills, A.J., Hardwick, B., & Goslin, J. (2018). [Model-free and model-based reward prediction errors in EEG](pu034.md). _NeuroImage, 178_, 162-171. Accepted: 8 May 2018. Published: 24 May 2018.
+
+Schlegelmilch, R., Wills, A.J., & von Helversen, B. (2018). [CALM - A Process Model of Category Generalization, Abstraction and Structuring](pu043.md). In T. Rogers, M. Rau, X. Zhu, & C.W. Kalish (Eds.). _Proceedings of the 40th Annual Conference of the Cognitive Science Society_ (pp. 2436-2441). Austin, TX: Cognitive Science Society. Accepted: 13 April 2018. Published: August 2018.
+
+Lea, S.E.G., Pothos, E.M., Wills, A.J., Leaver, L.A., Ryan, C.M.E., & Meier, C. (2018). [Multiple Feature Use in Pigeons’ Category Discrimination: The Influence of Stimulus Set Structure and the Salience of Stimulus Differences](pu035.md). _Journal of Experimental Psychology: Animal Learning and Cognition, 44_, 114-127. Accepted: 27 January 2018. Published: April 2018.
+
+Edmunds, C.E.R., Milton, F., & Wills, A.J. (2018). [Due process in dual process: Model-recovery simulations of decision-bound strategy analysis in category learning](pu012.md). _Cognitive Science, 42_, 833-860. Accepted: 18 Jan 2018. Published: 23 March 2018.
+
+Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). [Due process in dual process: A model-recovery analysis of Smith et al. (2014)](pu014.md). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). _Proceedings of the 39th Annual Conference of the Cognitive Science Society_ (pp. 1979-1984). Austin, TX: Cognitive Science Society. Accepted: 11 April 2017. Published: August 2017.
+
+Longman, C.S., Milton, F., Wills, A.J., & Verbruggen, F. (2018). [Transfer of learned category-response associations is modulated by instruction](pu005.md). _Acta Psychologica, 184_, 144-167. Accepted: 11 April 2017. Published: 25 April 2017.
+
 
 Wills, A.J., & Hollins, T.J. (2017). [In defence of effect-centric research](pu011.md). _Journal of Applied Research in Memory and Cognition, 6_, 43-46. Accepted: 31 October 2016. Published: 30 March 2017.
 
