@@ -19,25 +19,28 @@
 [77]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2018). Due process in dual process: Model-recovery simulations of decision-bound strategy analysis in category learning. Cognitive Science, 42, 833-860. [pdf] [simulation code] [IR] accepted: 2018-01-18
 [76]	Longman, C.S., Milton, F., Wills, A.J., & Verbruggen, F. (2018). Transfer of learned category-response associations is modulated by instruction. Acta Psychologica, 184, 144-167. [pdf] [data, analysis] [IR] accepted: 2017-04-11
 2017
-[75]	Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). Due process in dual process: A model-recovery analysis of Smith et al. (2014). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). Proceedings of the 39th Annual Conference of the Cognitive Science Society (pp. 1979-1984). Austin, TX: Cognitive Science Society. [pdf] accepted: 2017-04-11
-[74]	Lawson, R., Chang, F., & Wills, A. J. (2017). Free classification of large sets of everday objects is more thematic than taxonomic. Acta Psychologica, 172, 26-40. [pdf] [data, analysis] [get freesortphi] [IR] accepted: 2016-11-01
-[73]	Wills, A.J., & Hollins, T.J. (2017). In defence of effect-centric research. Journal of Applied Research in Memory and Cognition, 6, 43--46. [pdf] [IR] accepted: 2016-10-31
 
-Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples. _Psychology of Learning and Motivation, 66,_ 79-115. Accepted: 14 July 2016. Published: 6 February 2017.
+Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). [Due process in dual process: A model-recovery analysis of Smith et al. (2014)](pu014.md). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). _Proceedings of the 39th Annual Conference of the Cognitive Science Society_ (pp. 1979-1984). Austin, TX: Cognitive Science Society. Accepted: 2017-04-11. Published: August 2017/
 
-Milton, F., Bealing, P., Carpenter, K.L., Bennattayallah, A., & Wills, A.J. (2017). The neural correlates of similarity- and rule-based generalization. _Journal of Cognitive Neuroscience, 29_, 150-166. Accepted: 26 July 2016. Published: 30 November 2016.
+Wills, A.J., & Hollins, T.J. (2017). [In defence of effect-centric research](pu011.md). _Journal of Applied Research in Memory and Cognition, 6_, 43-46. Accepted: 31 October 2016. Published: 30 March 2017.
 
-O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck, M.A., & Wills, A.J. (2016). [Amnesic patients show superior generalization in category learning](pu169.md). _Neuropsychology, 30_, 915–919. Published: November 2016.
+Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). [Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples](pu002.md). _Psychology of Learning and Motivation, 66,_ 79-115. Accepted: 14 July 2016. Published: 6 February 2017.
 
-Le Pelley, M.E., Mitchell, C.J., Beesley, T., George, D.N., & Wills, A.J. (2016). [Attention and associative learning in humans: An integrative review](pu168.md). _Psychological Bulletin, 142_, 1111-1140. Published: October 2016.
+Milton, F., Bealing, P., Carpenter, K.L., Bennattayallah, A., & Wills, A.J. (2017). [The neural correlates of similarity- and rule-based generalization](pu172.md). _Journal of Cognitive Neuroscience, 29_, 150-166. Accepted: 26 July 2016. Published: 30 November 2016.
 
-Edmunds, C.E.R., Wills, A.J., & Milton, F.N. (2016). [Memory for exemplars in category learning](pu167.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 2243-2248). Austin, TX: Cognitive Science Society. Published: August 2016.
+Lawson, R., Chang, F., & Wills, A. J. (2017). [Free classification of large sets of everday objects is more thematic than taxonomic](pu171.md). _Acta Psychologica, 172_, 26-40. Accepted: 1 November 2016. Published: 15 November 2016.
 
-Edmunds, C.E.R., & Wills, A.J. (2016). [Modeling category learning using a dual-system approach: A simulation of Shepard, Hovland and Jenkins (1961) by COVIS](pu166.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 69-74). Austin, TX: Cognitive Science Society. Published: August 2016.
+O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck, M.A., & Wills, A.J. (2016). [Amnesic patients show superior generalization in category learning](pu170.md). _Neuropsychology, 30_, 915–919. Published: November 2016.
 
-Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). [A comparison of the neural correlates that underlie rule-based and information-integration category learning](pu165.md). _Human Brain Mapping, 37_, 3557–3574. Published: 20 May 2016.
+Le Pelley, M.E., Mitchell, C.J., Beesley, T., George, D.N., & Wills, A.J. (2016). [Attention and associative learning in humans: An integrative review](pu169.md). _Psychological Bulletin, 142_, 1111-1140. Published: October 2016.
 
-Roberts, H., Watkins, E., & Wills, A.J. (2017). Does rumination cause "inhibitory" deficits?. _Psychopathology Review, 4_, 341-376. Accepted: 28 January 2015. Published: 5 May 2016.
+Edmunds, C.E.R., Wills, A.J., & Milton, F.N. (2016). [Memory for exemplars in category learning](pu168.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 2243-2248). Austin, TX: Cognitive Science Society. Published: August 2016.
+
+Edmunds, C.E.R., & Wills, A.J. (2016). [Modeling category learning using a dual-system approach: A simulation of Shepard, Hovland and Jenkins (1961) by COVIS](pu167.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 69-74). Austin, TX: Cognitive Science Society. Published: August 2016.
+
+Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). [A comparison of the neural correlates that underlie rule-based and information-integration category learning](pu166.md). _Human Brain Mapping, 37_, 3557–3574. Published: 20 May 2016.
+
+Roberts, H., Watkins, E., & Wills, A.J. (2017). [Does rumination cause "inhibitory" deficits?](pu165.md) _Psychopathology Review, 4_, 341-376. Accepted: 28 January 2015. Published: 5 May 2016.
 
 Maes, E., De Filippo, G., Inkster, A., Lea, S.E.G., De Houwer, J., D'Hooge, R., Beckers, T., & Wills, A.J. (2015). [Feature- versus rule-based generalization in rats, pigeons and humans](pu164.md). _Animal Cognition, 18_, 1267-1284. Published: 19 July 2015.
 
