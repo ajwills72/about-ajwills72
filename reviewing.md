@@ -22,11 +22,11 @@ This log was started on 2020-02-10, and is a complete record of my academic revi
 
 - Psychonomic Bulletin & Review (1): 2020-03-03
 
-- Quarterly Journal of Experimental Psychology (1): 2020-03-19
+- Quarterly Journal of Experimental Psychology (2): 2020-03-19, 2020-07-06
 
 ## Grants
 
-- ESRC (1): 2020-04-14
+- ESRC (2): 2020-04-14, 2020-06-26
 
 ## Promotion applications
 
