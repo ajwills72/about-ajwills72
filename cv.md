@@ -8,6 +8,14 @@
 
 - **B.Sc.** (1993): _Psychology_ (2i). Southampton University, U.K.
 
+## Professional memberships
+
+- **Cognitive Science Society** (1997): _Member_
+
+- **Experimental Psychology Society** (2001): _Member_ (nominated)
+
+- **Psychonomic Society** (2010): _Fellow_ (elected)
+
 ## Employment history
 
 - **University of Plymouth**, U.K. (2012 - present): Professor
