@@ -10,11 +10,11 @@
 
 ## Professional memberships
 
-- **Cognitive Science Society** (1997): _Member_
+- **Cognitive Science Society** (1997-): _Member_
 
-- **Experimental Psychology Society** (2001): _Member_ (nominated)
+- **Experimental Psychology Society** (2001-): _Member_ (nominated)
 
-- **Psychonomic Society** (2010): _Fellow_ (elected)
+- **Psychonomic Society** (2010-): _Fellow_ (elected)
 
 ## Employment history
 
