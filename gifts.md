@@ -15,17 +15,19 @@ In 2020/21, I've decided to make an exception for interesting print books, and v
 
 ## Vinyl records
 
+- Helena Hauff. [Qualm](https://helenahauff.bandcamp.com/album/qualm).
 
+- The Normal. _Warm Leatherette / T.V.O.D_
 
+- Ray Lynch. _Deep Breakfast_.
 
+### Other iddeas
 
 If neither of those lists spark joy in you, here's some other ideas:
 
-## Charitable donations
+### Charitable donations
 
 I'd be happy for your gift to be a donation to one of the people or organizations I suport. If you prefer to give physical stuff, then many of these offer T-shirts (I'm a Large) and stickers as part of their donation packages. For example:
-
-### Digital freedom and privacy
 
 [Electronic Frontier Foundation](https://www.eff.org/) -  Defending digital privacy, free speech, and innovation. 
 
@@ -33,16 +35,11 @@ I'd be happy for your gift to be a donation to one of the people or organization
 
 [Tor Project](https://www.torproject.org/) - Supporting privacy and anonymity online.
 
-### Musicians
-
 [Zoë Blade](https://www.patreon.com/zoeblademusic/posts) - Instrumental electronic music.
-
-### Independent journalists
 
 [Late Night Linux](https://www.patreon.com/LateNightLinux/posts) - Linux podcast
 
-
-## Collecting things
+### Collecting things
 
 Here are some of the things I collect, and what I already have within those collections. Many of these things you can find on [eBay](https://www.ebay.co.uk), [Discogs](https://www.discogs.com), or [BookFinder](https://www.bookfinder.com/). Clicking on the links below takes you to a page that lists the current contents on my collections.
 
