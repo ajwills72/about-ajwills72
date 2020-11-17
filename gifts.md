@@ -21,7 +21,7 @@ In 2020/21, I've decided to make an exception for interesting print books, and v
 
 - Ray Lynch. _Deep Breakfast_.
 
-## Other iddeas
+## Other ideas
 
 If neither of those lists spark joy in you, here's some other ideas:
 
