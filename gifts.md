@@ -1,7 +1,25 @@
 # Gifts
 
 If you're thinking of buying me a gift then, first, thank you - that's really
-nice. And second, sorry, I'm not necessarily the easiest person to buy for. This is mainly because I can easily feel overwhelmed by "stuff" and would in general like less stuff in my life, rather than more. But, I do support some charities, and I also collect various small, old, rare things. Either of these categories are always good gift options. Some details below.
+nice. And second, sorry, I'm not necessarily the easiest person to buy for. This is mainly because I can easily feel overwhelmed by "stuff" and would in general like less stuff in my life, rather than more. 
+
+In 2020/21, I've decided to make an exception for interesting print books, and vinyl records. Below are some suggestions of things I would like but do not have:
+
+## Print books
+
+- David Graeber (2018). _Bullshit jobs_.
+
+- Don Miguel Ruiz (2008). _The four agreements_.
+
+- Marcus Aurelius. _Meditations_ (apparently there are some poor translations, so check out reviews) 
+
+## Vinyl records
+
+
+
+
+
+If neither of those lists spark joy in you, here's some other ideas:
 
 ## Charitable donations
 
@@ -20,8 +38,6 @@ I'd be happy for your gift to be a donation to one of the people or organization
 [Zoë Blade](https://www.patreon.com/zoeblademusic/posts) - Instrumental electronic music.
 
 ### Independent journalists
-
-[Bryan Lunduke](https://www.patreon.com/bryanlunduke/posts) - Free software journalist
 
 [Late Night Linux](https://www.patreon.com/LateNightLinux/posts) - Linux podcast
 
