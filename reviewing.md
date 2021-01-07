@@ -6,11 +6,13 @@ Journal articles: ~40/year
 
 # Reviewing log
 
-This log was started on 2020-02-10, and is a complete record of my academic reviewing work since that date:
+This log was started on 2020-02-10, and probably has gaps for 2020 after March due to The Event. From 2021, I'm aiming to keep it complete:
 
 ## Journal articles
 
 - Cognitive Science (1): 2020-03-10
+
+- Cortex (1): 2021-01-07
 
 - Journal of Mathematical Psychology (1): 2020-02-10
 
