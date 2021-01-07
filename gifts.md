@@ -7,19 +7,15 @@ In 2020/21, I've decided to make an exception for interesting print books, and v
 
 ## Print books
 
-- David Graeber (2018). _Bullshit jobs_.
+- David Graeber (2011). _Debt: The First 5000 years_.
 
-- Don Miguel Ruiz (2008). _The four agreements_.
-
-- Marcus Aurelius. _Meditations_ (apparently there are some poor translations, so check out reviews) 
 
 ## Vinyl records
-
-- Helena Hauff. [Qualm](https://helenahauff.bandcamp.com/album/qualm).
 
 - The Normal. _Warm Leatherette / T.V.O.D_
 
 - Ray Lynch. _Deep Breakfast_.
+
 
 ## Other ideas
 
