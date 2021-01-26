@@ -9,8 +9,6 @@ In 2020/21, I've decided to make an exception for interesting print books, and v
 
 - Guy Standing (2017). _Basic Income: And How We Can Make It Happen_.
 
-- Christina Brown (2009). _The Yoga Bible_.
-
 ## Vinyl records
 
 - Ray Lynch. _Deep Breakfast_.
