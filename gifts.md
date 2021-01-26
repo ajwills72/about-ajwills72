@@ -7,15 +7,11 @@ In 2020/21, I've decided to make an exception for interesting print books, and v
 
 ## Print books
 
-- David Graeber (2011). _Debt: The First 5000 years_.
-
 - Guy Standing (2017). _Basic Income: And How We Can Make It Happen_.
 
 - Christina Brown (2009). _The Yoga Bible_.
 
 ## Vinyl records
-
-- The Normal. _Warm Leatherette / T.V.O.D_
 
 - Ray Lynch. _Deep Breakfast_.
 
