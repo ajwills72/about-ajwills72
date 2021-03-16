@@ -166,11 +166,11 @@ Le Pelley, M.E., Oakeshott, S.M., Wills, A.J., & McLaren, I.P.L. (2005). [The ou
 
 Bryant, C.M., Jones, G.J.F., & Wills, A.J. (2004). [Integration of psychological models in the design of artificial creatures](pu112.md). _Proceedings of the AISB 2004 symposium on Emotion, Cognition and Affective Computing_ (pp. 9-20). Published: 29 March 2004.
 
-Milton, F., & Wills, A.J. (2004). [The influence of stimulus properties on category construction](pu011.md). _Journal of Experimental Psychology: Learning, Memory and Cognition, 30,_ 407-415. Published: 1 March 2004.
+Milton, F., & Wills, A.J. (2004). [The influence of stimulus properties on category construction](pu111.md). _Journal of Experimental Psychology: Learning, Memory and Cognition, 30,_ 407-415. Published: 1 March 2004.
 
-Wills, A.J., Suret, M.B., & McLaren, I.P.L. (2004). [The role of category structure in determining the effects of stimulus preexposure on categorization accuracy](pu010.md). _Quarterly Journal of Experimental Psychology, 57B,_ 79-88. Published: 1 January 2004.
+Wills, A.J., Suret, M.B., & McLaren, I.P.L. (2004). [The role of category structure in determining the effects of stimulus preexposure on categorization accuracy](pu110.md). _Quarterly Journal of Experimental Psychology, 57B,_ 79-88. Published: 1 January 2004.
 
-Goto, K., Wills, A.J., & Lea, S.E.G. (2004). Global-feature classification can be acquired more rapidly than local-feature classification in both humans and pigeons. Animal Cognition, 7, 109-113. Published online: 11 October 2003.
+Goto, K., Wills, A.J., & Lea, S.E.G. (2004). [Global-feature classification can be acquired more rapidly than local-feature classification in both humans and pigeons](pu109.md). _Animal Cognition, 7_, 109-113. 
 
 Lochmann, T., & Wills, A.J. (2003). [Predictive history in an allergy prediction task](pu108.md). In F. Schmalhofer, R.M. Young, & G. Katz (Eds.). _Proceedings of EuroCogSci 03: The European Cognitive Science Conference_ (pp. 217-222). Mahwah, NJ: Lawrence Erlbaum Associates.
 
