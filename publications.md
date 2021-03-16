@@ -174,7 +174,7 @@ Goto, K., Wills, A.J., & Lea, S.E.G. (2004). Global-feature classification can b
 
 Lochmann, T., & Wills, A.J. (2003). [Predictive history in an allergy prediction task](pu108.md). In F. Schmalhofer, R.M. Young, & G. Katz (Eds.). _Proceedings of EuroCogSci 03: The European Cognitive Science Conference_ (pp. 217-222). Mahwah, NJ: Lawrence Erlbaum Associates. Published: September 2003.
 
-Welham, A.K., Schnadt, M.J., & Wills, A.J. (2003). [Speeded categorization: the effects of perceptual processing and decision-making time](pu107.md). In R. Alterman, & D. Kirsh (Eds.). _Proceedings of the 25th Annual Conference of the Cognitive Science Society_ (pp. 1218-1223). Mahwah, NJ: Lawrence Erlbaum Associates. Published: August 2003.
+Welham, A.K., Schnadt, M.J., & Wills, A.J. (2003). [Speeded categorization: the effects of perceptual processing and decision-making time](pu107.md). In R. Alterman, & D. Kirsh (Eds.). _Proceedings of the 25th Annual Conference of the Cognitive Science Society_ (pp. 1218-1223). Mahwah, NJ: Lawrence Erlbaum Associates. 
 
 Zwickel, J., & Wills, A.J. (2002). [Is competitive learning an adequate account of free classification?](pu106.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 982-987). Mahwah, NJ: Lawrence Erlbaum Associates.
 
