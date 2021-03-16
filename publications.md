@@ -172,7 +172,7 @@ Wills, A.J., Suret, M.B., & McLaren, I.P.L. (2004). [The role of category struct
 
 Goto, K., Wills, A.J., & Lea, S.E.G. (2004). Global-feature classification can be acquired more rapidly than local-feature classification in both humans and pigeons. Animal Cognition, 7, 109-113. Published online: 11 October 2003.
 
-Lochmann, T., & Wills, A.J. (2003). [Predictive history in an allergy prediction task](pu108.md). In F. Schmalhofer, R.M. Young, & G. Katz (Eds.). _Proceedings of EuroCogSci 03: The European Cognitive Science Conference_ (pp. 217-222). Mahwah, NJ: Lawrence Erlbaum Associates. Published: September 2003.
+Lochmann, T., & Wills, A.J. (2003). [Predictive history in an allergy prediction task](pu108.md). In F. Schmalhofer, R.M. Young, & G. Katz (Eds.). _Proceedings of EuroCogSci 03: The European Cognitive Science Conference_ (pp. 217-222). Mahwah, NJ: Lawrence Erlbaum Associates.
 
 Welham, A.K., Schnadt, M.J., & Wills, A.J. (2003). [Speeded categorization: the effects of perceptual processing and decision-making time](pu107.md). In R. Alterman, & D. Kirsh (Eds.). _Proceedings of the 25th Annual Conference of the Cognitive Science Society_ (pp. 1218-1223). Mahwah, NJ: Lawrence Erlbaum Associates. 
 
