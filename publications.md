@@ -8,8 +8,6 @@ Edmunds, C.E.R., Inkster, A.B., Jones, P.M., Milton, F., & Wills, A.J. [Absence 
 
 # Publications
 
-_Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.
-
 Seabrooke, T., Mitchell, C. J., Wills, A. J., & Hollins, T. J. (in press). [Pretesting boosts recognition, but not cued recall, of targets from unrelated word pairs](pu060.md). Psychonomic Bulletin and Review. Accepted: 26 November 2019.
 
 Spicer, S.G., Mitchell, C.J., Wills, A.J., & Jones, P.M. (2020). [Theory protection in associative learning: humans maintain certain beliefs in a manner that violates prediction error](pu048.md). _Journal of Experimental Psychology: Animal Learning and Cognition, 46_, 151-161. Accepted: 19 July 2019. Published: April 2020.
@@ -178,7 +176,7 @@ Lochmann, T., & Wills, A.J. (2003). [Predictive history in an allergy prediction
 
 Welham, A.K., Schnadt, M.J., & Wills, A.J. (2003). [Speeded categorization: the effects of perceptual processing and decision-making time](pu107.md). In R. Alterman, & D. Kirsh (Eds.). _Proceedings of the 25th Annual Conference of the Cognitive Science Society_ (pp. 1218-1223). Mahwah, NJ: Lawrence Erlbaum Associates. Published: August 2003.
 
-Zwickel, J., & Wills, A.J. (2002). [Is competitive learning an adequate account of free classification?](pu106.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 982-987). Mahwah, NJ: Lawrence Erlbaum Associates. Published: August 2002.
+Zwickel, J., & Wills, A.J. (2002). [Is competitive learning an adequate account of free classification?](pu106.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 982-987). Mahwah, NJ: Lawrence Erlbaum Associates.
 
 Wills, A.J. (2002). [Adapting to a response deadline in categorization](pu105.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 938-943). Mahwah, NJ: Lawrence Erlbaum Associates. Published: August 2002.
 
@@ -189,3 +187,6 @@ Wills, A.J., & McLaren, I.P.L. (1998). [Perceptual learning and free classificat
 Jones, F.W., Wills, A.J., & McLaren, I.P.L. (1998). [Perceptual categorization: connectionist modelling and decision rules](pu102.md). _Quarterly Journal of Experimental Psychology, 51B_, 33-58. 
 
 Wills, A.J., & McLaren, I.P.L. (1997). [Generalization in human category learning: A connectionist explanation of differences in gradient after discriminative and non-discriminative training](pu101.md). _Quarterly Journal of Experimental Psychology, 50A,_ 607-630. 
+
+
+_Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.
