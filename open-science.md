@@ -10,7 +10,7 @@
 
 - [Open science and reproducibility in psychology: A practical guide](https://github.com/ajwills72/fix-replication-crisis). How to do better science.
 
-- [On Esteem: Rewarding Reproducible Science](slides/esteem-slides.pdf). How to talk about reptuation without damaging science. 
+- [On Esteem: Rewarding Reproducible Science](slides/esteem-slides.pdf). How to talk about reputation without damaging science. 
 
 - [Open Journal of Experimental Psychology and Neuroscience](slides/ojepn-poster.pdf). Introducing OJEPN.
 
