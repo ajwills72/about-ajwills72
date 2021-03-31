@@ -1,3 +1,6 @@
+
+- [Publications](publications.md)
+
 -[Gift ideas](gifts.md)
 
 ## On intelligence
