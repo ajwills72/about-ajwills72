@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: willslab
 description: The personal website of Prof. Andy J. Wills
+github:
+  is_project_page: false
